@@ -9,6 +9,7 @@ import android.view.View;
  * Created by yangshenglong on 16/11/22.
  */
 
+//tuisong
 public abstract class BaseActivity extends AppCompatActivity {
 
     @Override
